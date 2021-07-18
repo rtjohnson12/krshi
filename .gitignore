@@ -5,6 +5,7 @@
 README.html
 data-raw/
 data/
+R/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
